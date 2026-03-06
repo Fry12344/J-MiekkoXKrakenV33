@@ -1,0 +1,6 @@
+kraken_phantom_report.json
+*.log
+__pycache__/
+*.py[cod]
+venv/
+env/
